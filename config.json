@@ -1,8 +1,8 @@
 {
-  "name": "localaddonlora22",
+  "name": "localaddonlora222",
   "version": "1.0",
-  "slug": "localaddonlora22",
-  "description": "localdatabase v2 lora",
+  "slug": "localaddonlora222",
+  "description": "localdatabase v22 lora",
   "arch": ["amd64"],
   "startup": "application",
   "boot": "auto",
